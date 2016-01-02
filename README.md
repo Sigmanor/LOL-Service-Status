@@ -1,4 +1,4 @@
-# League-of-Legends-Service-Status
+# LOL-Service-Status
 Rainmeter skin to display League of Legends service status.  
 ![](http://i.imgur.com/uF1mTUB.png)  
 
