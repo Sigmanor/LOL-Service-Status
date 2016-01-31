@@ -8,5 +8,5 @@ Rainmeter skin to display League of Legends service status
 ## Contribution
 Feel free :octocat:
 
-### License
+## License
 Distributed under [MIT](https://github.com/Sigmanor/LOL-Service-Status/blob/master/LICENSE) license
